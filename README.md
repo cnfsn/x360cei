@@ -8,6 +8,7 @@ x360cei is an easy installer for XBOX 360 Controller emulator to be used with di
 Compiled x86 binary is available in the downloads section.
 
 Instructions:
+
 1. Download x360ce from here: http://code.google.com/p/x360ce/
 2. Create x360ce.ini
 3. Move x360cei.exe to x360ce directory and start it
