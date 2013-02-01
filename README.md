@@ -1,7 +1,7 @@
 THIS PROJECT IS NOT MAINTAINED
 ==============================
 
-Sorry, I thought no one was using this so I deleted it.
+Sorry, I thought no one was using this so I deleted it. As Github deprecated downloads, the compiled binary is no longer available. Feel free to host it somewhere.
 
 x360cei is an easy installer for XBOX 360 Controller emulator to be used with different games.
 
