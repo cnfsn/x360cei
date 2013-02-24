@@ -1,8 +1,6 @@
-THIS PROJECT IS NOT MAINTAINED
-==============================
-
-Sorry, I thought no one was using this so I deleted it. As Github deprecated downloads, the compiled binary is no longer available. Feel free to host it somewhere.
-
+I like this idea and feel it should live on - so here is a maintained fork of cnfsn's x360ce Easy Installer!
+-Forgen
+----------------------------------------------------------------------------------------------
 x360cei is an easy installer for XBOX 360 Controller emulator to be used with different games.
 
 Compiled x86 binary is available in the downloads section.
